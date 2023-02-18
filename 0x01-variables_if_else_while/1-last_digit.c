@@ -26,12 +26,4 @@ int main(void)
 		printf("Last digit of %d is %d and is 0\n", n, m);
 	}
 	return (0);
-}	{
-		printf("%d is zero\n", n);
-	}
-else if (n < 0)
-	{
-		printf("%d is negative\n", n);
-	}
-return (0);
 }
